@@ -1,10 +1,14 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+/* more headers goes here */
+
 /**
- * main - Entry point, prints last digit with else statements
+ * main - Entry point
  *
- * Return - always zero for success
+ * Description: print and condition
+ *
+ * Return: Always 0 (Success)
  */
 
 int main(void)
