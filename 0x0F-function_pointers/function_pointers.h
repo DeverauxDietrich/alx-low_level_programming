@@ -9,6 +9,3 @@ int int_index(int *array, int size, int (*cmp)(int));
 
 
 #endif
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
